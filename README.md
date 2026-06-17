@@ -24,7 +24,7 @@
 ```python
 class DataScientist:
     def __init__(self):
-        self.name        = "Alex"
+        self.name        = "Roshan Chourasia"
         self.role        = "Data Science Fresher"
         self.location    = "India 🇮🇳"
         self.education   = "B.Tech / BSc in Computer Science / Statistics"
@@ -106,11 +106,11 @@ me.say_hi()
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexdata&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&border_radius=12" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanchourasia001&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&border_radius=12" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexdata&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true&radius=12" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshanchourasia001&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true&radius=12" width="95%" />
 
 </div>
 
@@ -119,7 +119,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexdata&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=roshanchourasia001&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
@@ -140,7 +140,7 @@ me.say_hi()
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [x] 🐍 Master Python for Data Science
 - [x] 📊 Build 4+ end-to-end ML projects
@@ -154,9 +154,9 @@ me.say_hi()
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🔬 [How I Built a Customer Churn Model in Python from Scratch](https://medium.com/@alexdata)
-- 📊 [5 SQL Queries Every Data Analyst Should Know](https://medium.com/@alexdata)
-- 🤖 [Getting Started with Scikit-Learn: A Beginner's Guide](https://medium.com/@alexdata)
+- 🔬 [How I Built a Customer Churn Model in Python from Scratch](https://medium.com/@roshanchourasia001)
+- 📊 [5 SQL Queries Every Data Analyst Should Know](https://medium.com/@alexdataroshanchourasia001)
+- 🤖 [Getting Started with Scikit-Learn: A Beginner's Guide](https://medium.com/@roshanchourasia001)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -165,11 +165,11 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexdata)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/roshan-chourasia-122a8b252)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/alexdata)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alexdata)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alexdata)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.datasci@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Roshan_00100)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](roshanchourasia1105@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://alexdata.dev)
 
 </div>
