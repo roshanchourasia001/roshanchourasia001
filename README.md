@@ -156,30 +156,21 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Stats Card - use a different hosted instance -->
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=roshanchourasia001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
-
-<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=roshanchourasia001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+&nbsp;
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=roshanchourasia001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-<!-- Streak Stats - most reliable service -->
-<img src="https://streak-stats.demolab.com/?user=roshanchourasia001&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&border_radius=12" />
+<img src="https://streak-stats.demolab.com/?user=roshanchourasia001&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=c9d1d9&border_radius=12" width="70%" />
 
-</div>
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanchourasia001&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&border_radius=12&stroke=a855f7" />
-
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshanchourasia001&bg_color=0d1117&color=a855f7&line=6d28d9&point=a855f7&area=true&area_color=a855f720&hide_border=true&radius=12" width="95%" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
