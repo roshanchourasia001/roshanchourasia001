@@ -11,9 +11,9 @@
 <br/>
 
 <!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=alexdata&label=Profile+Views&color=a855f7&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=roshanchourasia001&label=Profile+Views&color=a855f7&style=flat-square" alt="profile views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/alexdata?label=Followers&style=flat-square&color=a855f7" />
+<img src="https://img.shields.io/github/followers/roshanchourasia001?label=Followers&style=flat-square&color=a855f7" />
 
 </div>
 
