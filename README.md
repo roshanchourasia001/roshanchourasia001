@@ -10,10 +10,25 @@
 
 <!-- Status Badges -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=roshanchourasia001&label=Profile+Views&color=7c3aed&style=flat-square)
-[![Followers](https://img.shields.io/github/followers/roshanchourasia001?style=for-the-badge&color=7c3aed)](https://github.com/roshanchourasia001?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/roshanchourasia001?label=Stars&style=flat-square&color=a855f7)
+<p align="center">
 
+<a href="https://github.com/roshanchourasia001">
+  <img src="https://komarev.com/ghpvc/?username=roshanchourasia001&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/roshanchourasia001?tab=followers">
+  <img src="https://img.shields.io/github/followers/roshanchourasia001?label=Followers&style=for-the-badge&color=00D4FF&labelColor=0D1117" />
+</a>
+
+<a href="https://github.com/roshanchourasia001">
+  <img src="https://img.shields.io/badge/GitHub-roshanchourasia001-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/roshan-chourasia-122a8b252">
+  <img src="https://img.shields.io/badge/Open%20To%20Work-Available-success?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
