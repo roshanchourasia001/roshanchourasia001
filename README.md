@@ -11,8 +11,8 @@
 <!-- Status Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=roshanchourasia001&label=Profile+Views&color=7c3aed&style=flat-square)
 &nbsp;
-<a href="https://github.com/piyushpathak03?tab=followers">
-  <img src="https://img.shields.io/github/followers/piyushpathak03?label=Followers&style=for-the-badge&color=00D4FF&labelColor=0D1117&logo=github"/>
+<a href="https://github.com/roshanchourasia001?tab=followers">
+  <img src="https://img.shields.io/github/followers/roshanchourasia001?label=Followers&style=for-the-badge&color=00D4FF&labelColor=0D1117&logo=github"/>
 </a>
 ![GitHub stars](https://img.shields.io/github/stars/roshanchourasia001?label=Stars&style=flat-square&color=a855f7)
 [![GitHub](https://img.shields.io/badge/GitHub-roshanchourasia001-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/roshanchourasia001)
