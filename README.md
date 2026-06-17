@@ -156,9 +156,18 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roshanchourasia001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&ring_color=a855f7" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanchourasia001&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" />
+<!-- Stats Card - use a different hosted instance -->
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=roshanchourasia001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
 
+<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=roshanchourasia001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" />
+
+<br/>
+
+<!-- Streak Stats - most reliable service -->
+<img src="https://streak-stats.demolab.com/?user=roshanchourasia001&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&border_radius=12" />
+
+</div>
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanchourasia001&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&border_radius=12&stroke=a855f7" />
