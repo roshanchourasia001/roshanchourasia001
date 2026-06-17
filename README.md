@@ -10,8 +10,10 @@
 
 <!-- Status Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=roshanchourasia001&label=Profile+Views&color=7c3aed&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/roshanchourasia001?label=Followers&style=flat-square&color=7c3aed&labelColor=0d1117)](https://github.com/roshanchourasia001?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/roshanchourasia001?label=Stars&style=flat-square&color=a855f7)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-roshanchourasia001-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/roshanchourasia001)
+&nbsp;
+[![Open to Work](https://img.shields.io/badge/Open%20To-Internships-brightgreen?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshan-chourasia-122a8b252)
 
 </div>
 
