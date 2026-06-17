@@ -19,13 +19,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=header&animation=twinkling"/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=4&section=header&animation=twinkling"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=4&section=header&animation=twinkling"/>
-
-
 
 ## 👨‍💻 About Me
 
