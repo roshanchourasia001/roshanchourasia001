@@ -38,7 +38,7 @@ class Roshan:
     fun_fact   = "I see patterns in everything — even my chai"
 
     def say_hi(self):
-        print("Thanks for visiting! Let's connect and build something great!")
+        print("Let's connect and build something great!")
 
 me = Roshan()
 me.say_hi()
