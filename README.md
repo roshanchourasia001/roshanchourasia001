@@ -13,7 +13,7 @@
 <!-- Badges Row -->
 <img src="https://komarev.com/ghpvc/?username=roshanchourasia001&label=👁️+Profile+Views&color=a855f7&style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/roshanchourasia001?label=👥+Followers&style=flat-square&color=6d28d9" />
+<img src="https://img.shields.io/github/followers/roshanchourasia001?label=Followers&style=flat-square&color=6d28d9" />
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-Data%20Science-a855f7?style=flat-square" />
 &nbsp;
