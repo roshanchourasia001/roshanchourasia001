@@ -23,6 +23,10 @@
 
 ## 👨‍💻 About Me
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+
 ```python
 class Roshan:
     name       = "Roshan Chourasia"
