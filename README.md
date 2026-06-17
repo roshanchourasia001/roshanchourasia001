@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/github/followers/roshanchourasia001?label=Followers&style=for-the-badge&color=00D4FF&labelColor=0D1117" />
 </a>
 
-<a href="https://github.com/roshanchourasia001">
-  <img src="https://img.shields.io/badge/GitHub-roshanchourasia001-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/roshan-chourasia-122a8b252">
+  <img src="https://img.shields.io/badge/LinkedIn-Roshan%20Chourasia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/roshan-chourasia-122a8b252">
