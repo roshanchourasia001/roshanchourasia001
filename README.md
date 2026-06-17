@@ -44,9 +44,7 @@ me = Roshan()
 me.say_hi()
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=4&section=header&animation=twinkling"/>
-
-## 🛠️ Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;Tech Stack & Tools
 
@@ -93,7 +91,7 @@ me.say_hi()
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=4&section=header&animation=twinkling"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
 
@@ -110,7 +108,7 @@ me.say_hi()
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=4&section=header&animation=twinkling"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Stats
 
@@ -130,7 +128,7 @@ me.say_hi()
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=4&section=header&animation=twinkling"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 GitHub Trophies
 
@@ -138,7 +136,7 @@ me.say_hi()
   <img src="https://github-trophies.vercel.app/?username=roshanchourasia001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=4&section=header&animation=twinkling"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🐍 Contribution Snake
 
@@ -160,7 +158,7 @@ me.say_hi()
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=4&section=header&animation=twinkling"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎯 2025 Goals
 
@@ -178,7 +176,7 @@ me.say_hi()
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=4&section=header&animation=twinkling"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📚 Currently Learning
 
@@ -195,7 +193,7 @@ me.say_hi()
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=4&section=header&animation=twinkling"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Connect With Me
 
@@ -210,7 +208,7 @@ me.say_hi()
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=4&section=header&animation=twinkling"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
