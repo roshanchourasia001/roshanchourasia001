@@ -152,7 +152,7 @@ me.say_hi()
 <!-- After setup, replace this section with: -->
 <img src="https://raw.githubusercontent.com/roshanchourasia001/roshanchourasia001/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-> **Enable the snake animation — see [SETUP.md](./SETUP.md) for the 2-minute GitHub Actions setup**
+
 
 </div>
 
