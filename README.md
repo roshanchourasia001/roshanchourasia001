@@ -48,7 +48,7 @@ me = Roshan()
 me.say_hi()
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=4&section=header&animation=twinkling"/>
 
 ## 🛠️ Tech Stack
 
@@ -95,7 +95,7 @@ me.say_hi()
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=4&section=header&animation=twinkling"/>
 
 ## 🚀 Featured Projects
 
@@ -112,7 +112,7 @@ me.say_hi()
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=4&section=header&animation=twinkling"/>
 
 ## 📊 GitHub Stats
 
@@ -132,7 +132,7 @@ me.say_hi()
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=4&section=header&animation=twinkling"/>
 
 ## 🏆 GitHub Trophies
 
@@ -140,7 +140,7 @@ me.say_hi()
   <img src="https://github-trophies.vercel.app/?username=roshanchourasia001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=4&section=header&animation=twinkling"/>
 
 ## 🐍 Contribution Snake
 
@@ -162,7 +162,7 @@ me.say_hi()
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=4&section=header&animation=twinkling"/>
 
 ## 🎯 2025 Goals
 
@@ -180,7 +180,7 @@ me.say_hi()
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=4&section=header&animation=twinkling"/>
 
 ## 📚 Currently Learning
 
@@ -197,7 +197,7 @@ me.say_hi()
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=4&section=header&animation=twinkling"/>
 
 ## 🤝 Connect With Me
 
@@ -212,7 +212,7 @@ me.say_hi()
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=4&section=header&animation=twinkling"/>
 
 <div align="center">
 
