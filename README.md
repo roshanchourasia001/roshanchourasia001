@@ -9,16 +9,27 @@
 <br/>
 
 <!-- Status Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=roshanchourasia001&label=Profile+Views&color=7c3aed&style=flat-square)
-&nbsp;
-<a href="https://github.com/roshanchourasia001?tab=followers">
-  <img src="https://img.shields.io/github/followers/roshanchourasia001?label=Followers&style=for-the-badge&color=00D4FF&labelColor=0D1117&logo=github"/>
-</a>
-![GitHub stars](https://img.shields.io/github/stars/roshanchourasia001?label=Stars&style=flat-square&color=a855f7)
-[![GitHub](https://img.shields.io/badge/GitHub-roshanchourasia001-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/roshanchourasia001)
-&nbsp;
-[![Open to Work](https://img.shields.io/badge/Open%20To-job-brightgreen?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshan-chourasia-122a8b252)
+<p align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=roshanchourasia001&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
 
+<a href="https://github.com/roshanchourasia001">
+  <img src="https://img.shields.io/github/followers/roshanchourasia001?style=for-the-badge&logo=github&color=00D4FF&labelColor=0D1117" />
+</a>
+
+<a href="https://github.com/roshanchourasia001">
+  <img src="https://img.shields.io/github/stars/roshanchourasia001?style=for-the-badge&logo=github&color=F59E0B&labelColor=0D1117" />
+</a>
+
+<a href="https://linkedin.com/in/roshan-chourasia-122a8b252">
+  <img src="https://img.shields.io/badge/LinkedIn-Roshan%20Chourasia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
